@@ -380,17 +380,17 @@
       left: 15px;
       background-size: contain; }
     .form__input-box.--email::before {
-      background: url("img/icons/email.svg") center no-repeat; }
+      background: url("../img/icons/email.svg") center no-repeat; }
     .form__input-box.--name::before {
-      background: url("img/icons/user-name.svg") center no-repeat; }
+      background: url("../img/icons/user-name.svg") center no-repeat; }
     .form__input-box.--question::before {
-      background: url("img/icons/question.svg") center no-repeat; }
+      background: url("../img/icons/question.svg") center no-repeat; }
     .form__input-box.--phone {
       flex-basis: 70%;
       margin-bottom: 0;
       margin-right: 15px; }
       .form__input-box.--phone::before {
-        background: url("img/icons/phone.svg") center no-repeat; }
+        background: url("../img/icons/phone.svg") center no-repeat; }
       @media only screen and (max-width: 767px) {
         .form__input-box.--phone {
           flex-basis: 100%;
@@ -407,7 +407,7 @@
         top: 20px;
         left: auto;
         right: 0px;
-        background: url("img/icons/arrow.svg") center no-repeat;
+        background: url("../img/icons/arrow.svg") center no-repeat;
         background-size: contain; }
         @media only screen and (max-width: 1199px) {
           .form__input-box.--submit::before {
